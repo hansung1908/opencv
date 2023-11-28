@@ -4,3 +4,6 @@
 
 ### 설치
 - prompt 창에 pip install opencv-python
+
+### 연습 데이터
+- pixabay, pixels 에서 무료 이미지, 동영상을 제공
